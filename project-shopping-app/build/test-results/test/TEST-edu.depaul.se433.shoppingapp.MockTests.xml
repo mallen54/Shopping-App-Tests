@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.depaul.se433.shoppingapp.MockTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-28T20:11:46" hostname="DESKTOP-72HGLRO" time="0.89">
+  <properties/>
+  <testcase name="Tests that getting a nonexistent customer's purchases returns nothing" classname="edu.depaul.se433.shoppingapp.MockTests" time="0.86"/>
+  <testcase name="Verifies that PurchaseAgent makes the correct call to PurchaseDBO in the save() function." classname="edu.depaul.se433.shoppingapp.MockTests" time="0.018"/>
+  <testcase name="Test the average price is 0 for a customer with no purchases" classname="edu.depaul.se433.shoppingapp.MockTests" time="0.008"/>
+  <testcase name="Tests that the averagePurchase() function works correctly" classname="edu.depaul.se433.shoppingapp.MockTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

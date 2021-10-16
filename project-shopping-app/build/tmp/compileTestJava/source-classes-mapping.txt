@@ -1,0 +1,10 @@
+edu/depaul/se433/shoppingapp/TotalCostBoundaryTests.java
+ edu.depaul.se433.shoppingapp.TotalCostBoundaryTests
+edu/depaul/se433/shoppingapp/MockTests.java
+ edu.depaul.se433.shoppingapp.MockTests
+edu/depaul/se433/shoppingapp/step_definitions/TotalCostSteps.java
+ edu.depaul.se433.shoppingapp.step_definitions.TotalCostSteps
+edu/depaul/se433/shoppingapp/step_definitions/TestRunner.java
+ edu.depaul.se433.shoppingapp.step_definitions.TestRunner
+edu/depaul/se433/shoppingapp/EquivalencePartitionTests.java
+ edu.depaul.se433.shoppingapp.EquivalencePartitionTests

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.34.0" timestamp="2021-05-28T15:11:48.827">
+<file name="C:\Users\Michael\Desktop\project-shopping-app\project-shopping-app\src\main\java\edu\depaul\se433\shoppingapp\PurchaseAgent.java">
+<violation beginline="27" endline="27" begincolumn="11" endcolumn="31" rule="EqualsNull" ruleset="Error Prone" package="edu.depaul.se433.shoppingapp" class="PurchaseAgent" method="save" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_errorprone.html#equalsnull" priority="1">
+Avoid using equals() to compare against null
+</violation>
+<violation beginline="42" endline="42" begincolumn="5" endcolumn="9" rule="AvoidUsingShortType" ruleset="Performance" package="edu.depaul.se433.shoppingapp" class="PurchaseAgent" method="averagePurchase" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_performance.html#avoidusingshorttype" priority="1">
+Do not use the short type
+</violation>
+<violation beginline="44" endline="44" begincolumn="10" endcolumn="14" rule="AvoidUsingShortType" ruleset="Performance" package="edu.depaul.se433.shoppingapp" class="PurchaseAgent" method="averagePurchase" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_performance.html#avoidusingshorttype" priority="1">
+Do not use the short type
+</violation>
+</file>
+<file name="C:\Users\Michael\Desktop\project-shopping-app\project-shopping-app\src\main\java\edu\depaul\se433\shoppingapp\ShoppingCart.java">
+<violation beginline="26" endline="26" begincolumn="16" endcolumn="41" rule="LongInstantiation" ruleset="Performance" package="edu.depaul.se433.shoppingapp" class="ShoppingCart" method="addItem" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_performance.html#longinstantiation" priority="2">
+Avoid instantiating Long objects.Call Long.valueOf() instead
+</violation>
+</file>
+<file name="C:\Users\Michael\Desktop\project-shopping-app\project-shopping-app\src\main\java\edu\depaul\se433\shoppingapp\ShoppingCartApi.java">
+<violation beginline="53" endline="53" begincolumn="5" endcolumn="22" rule="SystemPrintln" ruleset="Best Practices" package="edu.depaul.se433.shoppingapp" class="ShoppingCartApi" method="addItem" externalInfoUrl="https://pmd.github.io/pmd-6.34.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+System.out.println is used
+</violation>
+</file>
+</pmd>
